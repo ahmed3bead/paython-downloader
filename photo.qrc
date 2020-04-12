@@ -1,0 +1,18 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource>
+        <file>icons/br.png</file>
+        <file>icons/save.png</file>
+        <file>icons/prepare.png</file>
+        <file>icons/download.png</file>
+        <file>icons/facebook.png</file>
+        <file>icons/file.png</file>
+        <file>icons/multi.png</file>
+        <file>icons/one.png</file>
+        <file>icons/youtube.png</file>
+        <file>icons/pull.png</file>
+
+
+
+    </qresource>
+</RCC>
